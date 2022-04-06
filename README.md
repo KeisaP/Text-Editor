@@ -50,7 +50,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Links
 
-[Link to Live Webpage]()
+[Link to Live Webpage](https://secret-fortress-81995.herokuapp.com/)
 
 [Link to Github Repository](https://github.com/KeisaP/Text-Editor)
 
